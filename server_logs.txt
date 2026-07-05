@@ -1,0 +1,7 @@
+2026-07-05 21:00:12 UTC - IP: 192.168.1.50 - SSH - Failed password for root from port 49221
+2026-07-05 21:00:14 UTC - IP: 192.168.1.50 - SSH - Failed password for root from port 49225
+2026-07-05 21:00:16 UTC - IP: 192.168.1.50 - SSH - Failed password for root from port 49230
+2026-07-05 21:01:45 UTC - IP: 203.0.113.5 - HTTP - GET /index.php HTTP/1.1 - 200 SUCCESS
+2026-07-05 21:02:11 UTC - IP: 203.0.113.5 - HTTP - GET /../../../../etc/passwd HTTP/1.1 - 403 FORBIDDEN
+2026-07-05 21:03:00 UTC - IP: 10.0.0.12 - HTTP - POST /upload.php?cmd=d2hvYW1pOw== HTTP/1.1 - 200 SUCCESS
+2026-07-05 21:04:12 UTC - IP: 192.168.1.100 - SSH - Accepted password for nimona from port 51102
